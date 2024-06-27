@@ -1,6 +1,13 @@
 # byt8
 
-<img src="/website/html/img/multiherobackground.png" width=1000>
+<img src="/website/html/img/multiherobackground.png">
+
+> [!WARNING]  
+> This application and supporting infrastructure has been decommissioned and this repository only serves as example
+> code under my personal portfolio.  At one point, this application was used on a daily basis and had some 50-100 
+> users.  I had a lot of fun in college messing around with this project, and it taught me a lot with mobile, frontend,
+> release management, and even just thinking about the quality of day.  It was time to move on, and I continue to 
+> work on cool, new things. 
 
 Introducing byt8: A modern, redesigned daily reflection app that simplifies the recording process and quickly can drive personal insights.  As simple as scrolling through a dating app, byt8 asks 8 easy questions yes/no every day in order to give more intuition in your personal life.  By spending 2 minutes each day reflecting on the good things and the bad things, you can start to make changes for the better. 
 
